@@ -1,0 +1,24 @@
+{
+  "name": "cliapp",
+  "description": "Código base para criação de apps cli com nodejs.",
+  "keywords": [
+    "cliapp",
+    "app terminal"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "cliapp.js",
+  "author": {
+    "name": "Arthur henrique",
+    "email": "arthurthcoder@gmail.com",
+    "url": "https://github.com/arthurthcoder"
+  },
+  "homepage": "https://github.com/arthurthcoder/cliapp#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurthcoder/cliapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arthurthcoder/cliapp/issues"
+  }
+}
